@@ -11,7 +11,7 @@ This python project provides detailed insights into two fundamental aspects of c
 
 | Input Video | Output Video |
 |-------------|--------------|
-| <video src="videos/virat_kohli.mp4" controls width="320"></video> | <video src="videos/virat_kohli_weight_transfer.webm" controls width="320"></video> |
+| [![Input Video](videos/virat_kohli_thumb.png)](videos/virat_kohli.mp4) | [![Output Video](videos/virat_kohli_weight_transfer_thumb.png)](videos/virat_kohli_weight_transfer.webm) |
 
 ---
 
@@ -19,8 +19,7 @@ This python project provides detailed insights into two fundamental aspects of c
 
 | Input Video | Output Video |
 |-------------|--------------|
-| <video src="videos/rohit_sharma.mp4" controls width="320"></video> | <video src="videos/bat_swing_speed_rohit_sharma.webm" controls width="320"></video> |
-
+| [![Input Video](videos/rohit_sharma_thumb.png)](videos/rohit_sharma.mp4) | [![Output Video](videos/bat_swing_speed_rohit_sharma_thumb.png)](videos/bat_swing_speed_rohit_sharma.webm) |
 
 ## Key Features
 

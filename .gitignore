@@ -1,0 +1,46 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VSCode settings (optional)
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Models and weights (if too large, consider not tracking)
+models/*.pt
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Python pipenv files (optional)
+Pipfile.lock
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Coverage reports
+.coverage
+htmlcov/
+.coverage.*
+
+# PyCharm project files (optional)
+.idea/
+
+# Other OS files
+Thumbs.db
